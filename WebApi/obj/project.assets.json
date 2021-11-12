@@ -852,11 +852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ANAKA E. RUKEVWE\\source\\repos\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ANAKA E. RUKEVWE\\source\\repos\\Employee\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\ANAKA E. RUKEVWE\\source\\repos\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\ANAKA E. RUKEVWE\\source\\repos\\Employee\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\ANAKA E. RUKEVWE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ANAKA E. RUKEVWE\\source\\repos\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\ANAKA E. RUKEVWE\\source\\repos\\Employee\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
